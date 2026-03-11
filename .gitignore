@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# MacOS
+.DS_Store
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# YOLO Weights
+*.pt
+*.onnx
+
+# IDE files
+.vscode/
+.idea/
